@@ -1,4 +1,4 @@
-# DreamWing-Motion-Editor
+# DreamWing3D-Motion-Editor
 > 这是一个基于FCP底层的动作编辑器，由DreamWing设计
 
 ![alt text](img/image.png)
