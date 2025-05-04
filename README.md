@@ -33,7 +33,7 @@ python3 Run_Util.py
 1. 左边面板上某些按钮存在bug，但本人即将变成牛马没有时间玩3D了懒得改代码了，所以该编辑器更多的用于观察动作，欢迎有兴趣的同学在原有基础上进行优化
 2. `init`按钮定位机器人到`(-14.8,0)`，同时让球移动到`(-14,0)`
 3. 点击`run`按钮，机器人会根据右边上部分定位信息输入框的内容先进行踢球定位再执行踢球动作
-4. (该部分将于2025年5月4日后上传到仓库)`motioneditor/motion`目录下有已经使用[DreamWing3D动作采集器](https://github.com/TansirFlow/DreamWing-Action-Sampler)完整采集并裁剪过的开箱即用的Apollo Open Motion
+4. `motioneditor/motion`目录下有已经使用[DreamWing3D动作采集器](https://github.com/TansirFlow/DreamWing-Action-Sampler)完整采集并裁剪过的开箱即用的Apollo Open Motion
 ## 感谢
 1. **FCPortugal团队** 开源的底层，原仓库地址:[https://github.com/m-abr/FCPCodebase](https://github.com/m-abr/FCPCodebase)
 2. **南京邮电大学Apollo3D团队** 开源的快踢和大脚动作，仓库地址：[https://github.com/Jiangtianjian/Framework-Skills-Optimization](https://github.com/Jiangtianjian/Framework-Skills-Optimization)
